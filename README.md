@@ -1,5 +1,5 @@
 # Point-Cloud-Processing
-In this project we will process point clouds for plane, sphere and cylinder fitting using RANSAC.
+In this project we will process point clouds for plane, sphere and cylinder fitting using RANSAC. And implement Iterative Closest Point to perform scan matching on two point clouds.
 
 To Run the code:
 
@@ -18,4 +18,6 @@ python point_cloud.py -q q2
 
 
 python point_cloud.py -q q3
+
+# You can run the scan matching program by running it in your IDE.
 
